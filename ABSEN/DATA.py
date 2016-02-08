@@ -394,7 +394,7 @@ class Data(Frame):
             self.listboxData.bind('<KeyRelease>', self.entry)
 
             try:
-                self.parent.title('FINIC - UMS')
+                self.parent.title('FORUM OPENSOURCE TEKNIK INFORMATIKA')
                 mb.showinfo("FORUM OPEN SOURCE TEKNIK INFORMATIKA","ANDA SUDAH HADIR KAWANKU \n        TERIMAKASIH")
                 os.system("spd-say -l en -t female2 'wel come in fosti familly'")
                             
