@@ -1,3 +1,11 @@
+"""
+Name             : Aplication-Absent-from-Tkinter-II-Injection-
+Created By       : Rahmandani Herlambang (Danias)
+License          : GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+Documentation    : https://github.com/DaniasHerlambang13/Aplication-Absent-from-Tkinter.git
+Thanks to        : Python Tkinter - Mexico Tech - Newbie - Summon Agus 
+"""
+
 #****************************************** TK UNTUK DATA UTAMA ********************************************************************************
 from Tkinter import*
 from tkMessageBox  import*
