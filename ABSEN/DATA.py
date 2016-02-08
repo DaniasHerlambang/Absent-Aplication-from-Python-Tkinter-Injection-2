@@ -2,7 +2,7 @@
 Name             : Aplication-Absent-from-Tkinter-II-Injection- version 2
 Created By       : Rahmandani Herlambang (Danias)
 License          : GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
-Documentation    : https://github.com/DaniasHerlambang13/-II-Aplication-Absent-from-Tkinter-II-Injection-.git
+Documentation    : https://github.com/DaniasHerlambang13/II-Aplication-Absent-from-Tkinter-II-Injection-.git
 Thanks to        : Python Tkinter - Mexico Tech - Newbie - Summon Agus 
 """
 
